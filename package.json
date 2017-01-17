@@ -1,0 +1,15 @@
+{
+  "author": "Erin Nolan (http://pigeonsblue.com)",
+  "name": "ciphertools",
+  "description": "functions to assist in deciphering text",
+  "version": "0.0.1",
+  "main": "ciphertools.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bluepigeons/ciphertools"
+  },
+  "dependencies": {
+    "nlp_compromise": ">=3.0.0"
+  },
+  "license": "MIT"
+}
